@@ -15,5 +15,9 @@ Average seems to range from 2-5 seconds. First round is always slowest, with sub
 <img src="https://github.com/jiunnhwa/Rust-Rocket-LOGASS-API-Service/blob/main/20220715%20RustLogassClientInsertDemo.gif" width=80% >
 
 ## Demo Insertion of 100 items using Rust Client. ##
-Sampling using rust client to inset items. Source file is client.rs.
+Sampling using rust client to insert items. Source file is client.rs.
 <img src="https://github.com/jiunnhwa/Rust-Rocket-LOGASS-API-Service/blob/main/20220716%20RustLogassClientInsertDemo.gif" width=80% >
+
+## Demo Insertion of 100 items using Go Client. ##
+Sampling using golang client to insert items. Source file is client.go.
+<img src="https://github.com/jiunnhwa/Rust-Rocket-LOGASS-API-Service/blob/main/20220716%20RustLogassGoClientInsertDemo.gif" width=80% >
