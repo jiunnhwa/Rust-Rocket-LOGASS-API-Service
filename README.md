@@ -11,6 +11,7 @@ This project is meant to be a comparative to the same logging application writte
 
 ## Demo Insertion of 100 items using C# Client. ##
 Average seems to range from 2-5 seconds. First round is always slowest, with subsequent rounds faster.  Source file is client.cs.
+
 <img src="https://github.com/jiunnhwa/Rust-Rocket-LOGASS-API-Service/blob/main/20220715%20RustLogassClientInsertDemo.gif" width=80% >
 
 ## Demo Insertion of 100 items using Rust Client. ##
