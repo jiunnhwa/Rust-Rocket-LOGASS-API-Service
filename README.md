@@ -12,7 +12,7 @@ Below are some demo runs for simple comparison, using defaults without optimizat
 
 
 ## Demo Insertion of 100 items using C# Client. ##
-Average seems to range from 2-5 seconds. First round is always slowest, with subsequent rounds faster.  Source file is client.cs using atd lib System.Net.Http.
+Average seems to range from 2-5 seconds. First round is always slowest, with subsequent rounds faster.  Source file is client.cs using  System.Net.Http.
 
 <img src="https://github.com/jiunnhwa/Rust-Rocket-LOGASS-API-Service/blob/main/20220715%20RustLogassClientInsertDemo.gif" width=80% >
 
